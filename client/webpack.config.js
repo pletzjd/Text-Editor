@@ -37,8 +37,8 @@ module.exports = () => {
               name: 'Just Another Text Editor',
               short_name: 'J.A.T.E',
               description: 'PWA text editor',
-              background_color: '#000000',
-              theme_color: '#000000',
+              background_color: '#225ca3',
+              theme_color: '#225ca3',
               start_url: './',
               publicPath: './',
               icons: [
